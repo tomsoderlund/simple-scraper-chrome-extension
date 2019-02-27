@@ -12,4 +12,4 @@ Install in [chrome://extensions/](chrome://extensions/)
 2. Go to any website.
 3. Click the “Simple” icon in Chrome toolbar.
 4. Enter a CSS selector.
-5. Get the results.
+5. See the results (see console log).
