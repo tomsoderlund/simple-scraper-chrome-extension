@@ -1,5 +1,7 @@
 # Simple Scraper - Chrome extension
 
+![Simple Scraper](icon128.png)
+
 Inspired by https://thoughtbot.com/blog/how-to-make-a-chrome-extension
 
 ## How to install
